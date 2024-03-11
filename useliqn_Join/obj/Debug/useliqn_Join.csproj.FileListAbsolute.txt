@@ -1,0 +1,6 @@
+D:\223LTC01\D01\useliqn_Join\useliqn_Join\obj\Debug\useliqn_Join.csproj.AssemblyReference.cache
+D:\223LTC01\D01\useliqn_Join\useliqn_Join\obj\Debug\useliqn_Join.csproj.CoreCompileInputs.cache
+D:\223LTC01\D01\useliqn_Join\useliqn_Join\bin\Debug\useliqn_Join.exe
+D:\223LTC01\D01\useliqn_Join\useliqn_Join\bin\Debug\useliqn_Join.pdb
+D:\223LTC01\D01\useliqn_Join\useliqn_Join\obj\Debug\useliqn_Join.exe
+D:\223LTC01\D01\useliqn_Join\useliqn_Join\obj\Debug\useliqn_Join.pdb
